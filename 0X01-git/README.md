@@ -1,3 +1,2 @@
-ALX Pre-course 
-"ALX School is so cool".
+ALX Pre-course.
 
